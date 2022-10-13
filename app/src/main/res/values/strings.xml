@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Score Keeper - LC</string>
+    <string name="team1">Team 1</string>
+    <string name="team2">Team 2</string>
+    <string name="button">Add Point</string>
+    <string name="points">0</string>
+</resources>
